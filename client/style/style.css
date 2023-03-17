@@ -1,11 +1,22 @@
+html, body {
+  background-color: #048;
+  color: white;
+}
+
 .collection-item {
   display: flex;
   justify-content: space-between;
+  color: #048;
 }
 
 .material-icons {
   cursor: pointer;
   margin-right: 5px;
+}
+
+.lyric-form-label {
+  color: white;
+  font-size: 1em;
 }
 
 
